@@ -1,0 +1,24 @@
+{
+  "domain": "lolly.is",
+  "beacon": "",
+  "links": [
+    {
+      "slug": "charts",
+      "url": "https://lolly.tools/t/d3.html",
+      "title": "D3 Chart Studio",
+      "description": "Design D3 charts in your browser — no code, no account."
+    },
+    {
+      "slug": "self-hosted",
+      "url": "https://github.com/lolly-tools/lolly/blob/main/INSTALL.md",
+      "title": "Self-host Lolly",
+      "description": "Install docs — run the whole toolkit on your own machine."
+    },
+    {
+      "slug": "different",
+      "url": "https://lolly.tools/info/status-quo.html",
+      "title": "Why Lolly is different",
+      "description": "The status quo of design tools, and what we do instead."
+    }
+  ]
+}
