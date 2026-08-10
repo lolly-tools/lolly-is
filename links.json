@@ -1,6 +1,6 @@
 {
   "domain": "lolly.is",
-  "beacon": "",
+  "beacon": "https://script.google.com/macros/s/AKfycbzuMYIvxcWHvpOEM1M0Uw6zsx49I0hudm1skjVfloUm03CSczdOn4VqUgOimauloQey/exec",
   "links": [
     {
       "slug": "charts",
