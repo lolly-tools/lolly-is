@@ -19,6 +19,12 @@
       "url": "https://lolly.tools/info/status-quo.html",
       "title": "Why Lolly is different",
       "description": "The status quo of design tools, and what we do instead."
+    },
+    {
+      "slug": "honest",
+      "url": "https://lolly.tools/info/input-not-impersonation.html",
+      "title": "Input, not impersonation",
+      "description": "Agents can drive the tools, but they can't claim to be you — identity is cryptographically signed, not restricted by software."
     }
   ]
 }
