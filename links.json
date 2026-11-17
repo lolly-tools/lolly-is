@@ -25,6 +25,13 @@
       "url": "https://lolly.tools/info/input-not-impersonation.html",
       "title": "Input, not impersonation",
       "description": "Agents can drive the tools, but they can't claim to be you — identity is cryptographically signed, not restricted by software."
+    },
+    {
+      "slug": "fy27sko",
+      "url": "https://script.google.com/a/macros/suse.com/s/AKfycbx4tGRRS-AKiMIxcMCrAVs2AGACGaR8PV9l2D3ulAXEagI_n7o5dGVZiuh1Kbl2HmFk/exec",
+      "title": "SKO FY27",
+      "description": "SUSE SKO FY27.",
+      "hidden": true
     }
   ]
 }
